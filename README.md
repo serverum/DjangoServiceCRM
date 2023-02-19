@@ -1,2 +1,2 @@
-# DjangoServiceCRM
-Landing page + CRM service on Django 3.2 + TeleBot + Nginx
+# Учебный проект курса 'Python + Django'
+### Проект полностью готов к выгрузке, необходимо провести миграции и создать суперюзера
